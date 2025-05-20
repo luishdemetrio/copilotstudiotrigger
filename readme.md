@@ -33,7 +33,7 @@ This will take you directly to the manual configuration settings, allowing you t
    - Description: This agent helps to answer questions related to the product catalog.
    - Instructions: Use the excel files from knowledge to respond to user inquiries. For instance, what is the total price of the products of the category Smartphone?
 
-![](images/cs03.png)
+   ![](images/cs03.png)
 
 These fields define the agent’s purpose and guide its behavior when interacting with users.
 
@@ -473,9 +473,3 @@ Click Back to return to the flow overview page where you can access the Flow set
     
 This allows you to verify whether the trigger has been running as expected and troubleshoot any issues if needed.
 
-s is an automated notification to inform you that the following products in our catalog are missing category information.
-
-
-
-
-Please review and update the missing catalog values at your earliest convenience to ensure our product catalog rem
